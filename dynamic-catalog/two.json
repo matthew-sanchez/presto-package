@@ -1,0 +1,9 @@
+{
+  "catalogName":"two",
+  "connectorName":"postgresql",
+  "properties":{
+    "connection-url":"jdbc:postgresql://db.sece.io:54322/sensors",
+    "connection-user":"postgres",
+    "connection-password":"irtlab7lw2"
+  }
+}
