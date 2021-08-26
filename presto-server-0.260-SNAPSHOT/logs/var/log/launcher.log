@@ -1,0 +1,10 @@
+2021-08-23T20:10:08.249-0400	INFO	main	com.facebook.airlift.log.Logging	Logging to stderr
+2021-08-23T20:10:08.252-0400	INFO	main	Bootstrap	Loading configuration
+2021-08-23T20:10:08.500-0400	INFO	main	Bootstrap	Initializing logging
+2021-08-23T20:10:08.624-0400	INFO	main	com.facebook.airlift.log.Logging	Logging to /home/mcs2307/presto-sensql/presto/presto-server/target/presto-server-0.260-SNAPSHOT/presto-server-0.260-SNAPSHOT/logs/var/log/server.log
+2021-08-23T20:10:08.713-0400	INFO	main	com.facebook.airlift.log.Logging	Disabling stderr output
+WARNING: An illegal reflective access operation has occurred
+WARNING: Illegal reflective access by com.google.inject.internal.cglib.core.$ReflectUtils$1 (file:/home/mcs2307/presto-sensql/presto/presto-server/target/presto-server-0.260-SNAPSHOT/presto-server-0.260-SNAPSHOT/lib/guice-4.2.2.jar) to method java.lang.ClassLoader.defineClass(java.lang.String,byte[],int,int,java.security.ProtectionDomain)
+WARNING: Please consider reporting this to the maintainers of com.google.inject.internal.cglib.core.$ReflectUtils$1
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+WARNING: All illegal access operations will be denied in a future release
